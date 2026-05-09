@@ -1,0 +1,8 @@
+{
+  "name": "Kosmo Dental AI Scribe",
+  "description": "AI-powered dental case sheet summary and audio transcription platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
